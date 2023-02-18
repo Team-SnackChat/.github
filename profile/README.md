@@ -1,4 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🍪SnackChat%&fontSize=90)
+
+## 🤔 채팅 어플리케이션
+- 친구들과 같이 채팅할 수 있는 기능 제공
+- 1080p의 화질로 화면을 공유할 수 있는 기능 제공   
+
+
 ## 😄 팀원 소개
 <table>
   <tr>
@@ -17,9 +23,8 @@
   </tr>
 </table>  
 
-## 🤔 채팅 어플리케이션
-- 친구들과 같이 채팅할 수 있는 기능 제공
-- 1080p의 화질로 화면을 공유할 수 있는 기능 제공  
+## 💻 개발 과정 기록
+- [Snack Chat을 만들어가며.. (feat. Notion)](https://www.notion.so/whiteflower7742/Snack-Chat-40790f243c674f3b882aa05bb1e73e9e?pvs=4)
 
 
 ## ⚒ 기술스택
